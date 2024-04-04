@@ -1,4 +1,4 @@
-REAL ESTATE PRICE PREDICTION [ML model] | PythonREAL ESTATE PRICE PREDICTION [ML model] | Python
+REAL ESTATE PRICE PREDICTION [ML model] | Python
 Predicts the price of real estate properties in Bangalore
 Implemented Linear regression , GridSearchCV, Cross validation
 Made a ML model in Python training the model in real dataset of Bangalore
